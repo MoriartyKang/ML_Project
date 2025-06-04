@@ -29,7 +29,7 @@ GRDP와 환자 수 간의 피어슨 상관계수를 계산
 
 --모델 구조--
 
-![img](https://drive.google.com/drive/folders/17PEc8k1XbtFgBVqr95D3z7XV18E-4S-a?hl=ko)
+![img](https://drive.google.com/file/d/1_sz3spCCHsFXDNZFdNpIqpgF_AL0S9YW/view?usp=drive_link)
 다음과 같은 머신러닝 모델을 회귀/분류 두 영역에 걸쳐 실험하였다:
 분류 모델 (환자 수 증가 여부 예측):
 Logistic Regression
